@@ -1,0 +1,15 @@
+{
+  "name": "ryansun96.github.io",
+  "version": "1.0.0",
+  "description": "Personal website hosted on GitHub Pages",
+  "main": "index.js",
+  "repository": "git@github.com:ryansun96/ryansun96.github.io.git",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.47"
+  },
+  "scripts": {
+    "pages:dev": "vuepress dev pages",
+    "pages:build": "vuepress build pages"
+  }
+}
