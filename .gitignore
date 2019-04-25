@@ -1,4 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
+*/.vuepress/dist/*
+.idea/*
+yarn.lock
 ### Node template
 # Logs
 logs
